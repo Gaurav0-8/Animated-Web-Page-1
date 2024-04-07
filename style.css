@@ -175,7 +175,7 @@ body {
     margin-top: 6vw;
     position: relative;
     width: 85%;
-    font-size: 1.4vw;
+    font-size: 1.7vw;
     font-weight: 500;
     display: flex;
     text-align: right;
@@ -185,29 +185,29 @@ body {
     display: inline-block;
     margin: 0 13px;
     border-radius: 100px;
-    background-color: red;
+    /* background-color: red; */
     margin-bottom: -12.5px;
 }
 
 #onespan {
-    width: 170px;
-    height: 50px;
+    width: 25vw;
+    height: 6vw;
     background: url(bluegirl.jpg);
     background-size: cover;
     background-position: center;
 }
 
 #twospan {
-    width: 220px;
-    height: 60px;
+    width: 35vw;
+    height: 8vw;
     background: url(shaljam.jpg) center;
     background-size: cover;
 
 }
 
 #threespan {
-    width: 170px;
-    height: 50px;
+    width: 23vw;
+    height: 6vw;
     background: url(grass.jpg) center;
     background-size: cover;
 }
@@ -306,7 +306,7 @@ body {
     overflow: hidden;
     position: relative;
     height: 100vh;
-    width: 100%;
+    width: 100vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -327,17 +327,22 @@ body {
     display: flex;
     flex-direction: column;
     align-items:center ;
-    background-color: #fff;
+    background-color: #ffffff77;
     padding: 1.5vw 2vw;
     border-radius: 10px;
     color: black;
+}
+#ftext h2{
+    font-size: 1vw;
+    margin-top: 2vw;
+    letter-spacing: 5px;
 }
 
 #ftext button{
     padding: 1vw 1.7vw;
     font-size: 0.9vw;
     font-weight: 700;
-    background-color: #fff;
+    background-color: #ffffff00;
     border: 1px solid #5e5e5e;
     border-radius: 100px;
     text-transform: capitalize;
