@@ -152,6 +152,7 @@ body {
 #visit h3 {
     color: #5e5e5e;
     font-weight: 600;
+    font-size: 2vw;
 }
 
 #motive {
@@ -247,7 +248,7 @@ body {
 #firstpic p,
 #secpic p {
     opacity: 0.8;
-    font-size: 1.3rem;
+    font-size: 2vw;
     font-weight: 600;
     letter-spacing: -.04rem;
     margin-top: 10px;
