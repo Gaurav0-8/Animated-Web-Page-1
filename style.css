@@ -132,7 +132,7 @@ body {
     width: 3vw;
     height: 3vw;
     border-radius: 50%;
-    border: 2px solid #5e5e5e;
+    border: .2vw solid #5e5e5e;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -140,6 +140,7 @@ body {
 
 #circlev i {
     color: #5e5e5e;
+    font-size: 2vw;
 }
 
 #visit {
